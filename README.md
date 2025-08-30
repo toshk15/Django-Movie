@@ -7,7 +7,6 @@
 3.- Movie Folder has different branch to test the code.
 
 4.- Watch folder Final backed application.
-Testing with Postman
 
 5.- Testing with Postman and with API Testing
 
