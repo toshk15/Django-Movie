@@ -1,33 +1,5 @@
-Watch app
+Testing with Postman
 
-<h3>📝 Reference Reading Links (Arranged According To Lectures)</h3>
-<br>
-
-<b>🎥 Understanding REST API</b>
-<ul>
-    <li>https://towardsdatascience.com/introduction-to-rest-apis-90b5d9676004</li>
-</ul>
-<br>
-
-<b>🎥 Basic Django Setup</b>
-<ul>
-    <li>https://www.djangoproject.com/</li>
-    <li>https://code.visualstudio.com/download</li>
-    <li>https://www.tabnine.com/</li>
-</ul>
-<br>
-
-<b>🎥 DRF Introduction</b>
-<ul>
-    <li>https://www.django-rest-framework.org/</li>
-</ul>
-<br>
-
-<b>🎥 Django Relationships</b>
-<ul>
-    <li>https://docs.djangoproject.com/en/3.1/topics/db/examples/</li>
-</ul>
-<br>
 
 <b>🎥 Postman</b>
 <ul>
@@ -36,48 +8,41 @@ Watch app
 </ul>
 <br>
 
-<b>🎥 Basic Authentication</b>
-<ul>
-    <li>https://www.base64encode.org/</li>
-    <li>https://www.toolsqa.com/postman/basic-authentication-in-postman/</li>
-</ul>
-<br>
+GET List:
 
-<b>🎥 JWT Authentication</b>
-<ul>
-<li>https://jwt.io/</li>
-<li>https://medium.com/devgorilla/how-to-log-out-when-using-jwt-a8c7823e8a6</li>
-<li>https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html</li>
-<li>https://medium.com/django-rest/django-rest-framework-jwt-authentication-94bee36f2af8https://stackoverflow.com/questions/61547014/restful-uri-trailing-slash-or-no-trailing-slash</li>
-</ul>
-<br>
+<img width="1868" height="1004" alt="Screenshot from 2025-08-30 14-22-32" src="https://github.com/user-attachments/assets/20990c65-9609-4620-a7e3-3b561b6626cd" />
+<img width="1559" height="854" alt="Screenshot from 2025-08-29 15-27-58" src="https://github.com/user-attachments/assets/0aa505df-55ad-4347-b5a4-c3d6f5c5e21d" />
 
-<b>🎥 Throttling Introduction</b>
-<ul>
-  <li>https://medium.com/analytics-vidhya/throttling-requests-with-django-rest-framework-for-different-http-methods-3ab0461044c</li>
-</ul>
-<br>
+POST Stream, Create review:
 
-<b>🎥 Filtering, Searching, Ordering</b>
-<ul>
-  <li>https://django-filter.readthedocs.io/en/stable/</li>
-    
-    <img width="1460" height="762" alt="usernamefilter" src="https://github.com/user-attachments/assets/b39f87c6-158d-4987-8592-62420bc58542" />
-    <img width="1450" height="910" alt="filterbynameandactive" src="https://github.com/user-attachments/assets/8dd3794b-171f-4b29-90bf-c4130bbce542" />
-    <img width="1462" height="787" alt="filterbyusername" src="https://github.com/user-attachments/assets/e5b074b6-b953-4e58-992f-e1ac57c668ad" />
+<img width="1841" height="965" alt="Screenshot from 2025-08-29 20-14-11" src="https://github.com/user-attachments/assets/3a1f839f-e6fa-4774-aeba-45a7dcdd2b7c" />
+<img width="1841" height="965" alt="Screenshot from 2025-08-29 20-55-25" src="https://github.com/user-attachments/assets/a92d620c-fdd7-4fcd-a40f-e763240958a5" />
+
+Login:
+
+<img width="1559" height="854" alt="Screenshot from 2025-08-29 15-26-46" src="https://github.com/user-attachments/assets/e20d12e7-3f31-44ca-ab6b-155ca0aa17e2" />
+<img width="1559" height="854" alt="Screenshot from 2025-08-29 15-32-11" src="https://github.com/user-attachments/assets/ee6f3eed-fae5-4676-b837-93e8a334eae2" />
+
+Logout:
+
+<img width="1592" height="928" alt="Screenshot from 2025-08-29 17-45-39" src="https://github.com/user-attachments/assets/c14857c0-3b94-435b-81df-d6c8611162a4" />
+<img width="1592" height="928" alt="Screenshot from 2025-08-29 17-47-53" src="https://github.com/user-attachments/assets/21ec6ef0-5072-4810-9786-42b76f7eaee6" />
 
 
-  <li>https://stackoverflow.com/a/36940373/7846238</li>
-</ul>
-<br>
+Filtering, Searching, Orderin:
 
-<b>🎥 Browsable API Update</b>
-<ul>
-  <li>https://stackoverflow.com/questions/11898065/how-to-disable-admin-style-browsable-interface-of-django-rest-framework</li>
-</ul>
-<br>
+<img width="1462" height="787" alt="filterbyusername" src="https://github.com/user-attachments/assets/512c3171-eb00-40fe-a4e6-b5077fb6f218" />
+<img width="1450" height="910" alt="filterbynameandactive" src="https://github.com/user-attachments/assets/65bd208b-486e-407e-8fce-7a51a3bfd44d" />
+<img width="1460" height="762" alt="usernamefilter" src="https://github.com/user-attachments/assets/3fa392d4-eb8d-4658-967b-eb61f1176105" />
 
-<b>🎥 Test Driven Development</b>
-<ul>
-  <li>https://medium.com/@ksarthak4ever/test-driven-development-tdd-in-django-and-django-rest-framework-drf-a889a8068cb7</li>
-</ul>
+Throttling 
+
+<img width="1442" height="795" alt="Screenshot from 2025-08-30 11-28-30" src="https://github.com/user-attachments/assets/cd38967e-ec3e-4b85-903c-aa2a2f18ffbe" />
+<img width="1443" height="789" alt="Screenshot from 2025-08-30 11-30-06" src="https://github.com/user-attachments/assets/4dc9fcf5-6cba-4c46-bc5a-e9ecb042ef37" />
+
+Pagination
+
+<img width="1437" height="1041" alt="pagination" src="https://github.com/user-attachments/assets/3cd24003-10cf-47a3-b3f6-782343a88e7a" />
+<img width="1437" height="1041" alt="pagination2" src="https://github.com/user-attachments/assets/2e47a4fe-8894-430c-9529-44641226b847" />
+
+
