@@ -1,5 +1,15 @@
+1.- Clone Repo and branches.
+
+1.- Create virtual enviroment.
+
+2.- install requirements.txt and run the projects in your local.
+
+3.- Movie Folder has different branch to test the code.
+
+4.- Watch folder Final backed application.
 Testing with Postman
 
+5.- Testing with Postman and with API Testing
 
 <b>🎥 Postman</b>
 <ul>
