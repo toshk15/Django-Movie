@@ -1,4 +1,4 @@
-# IMDB API Clone With DRF
+Watch app
 
 <h3>📝 Reference Reading Links (Arranged According To Lectures)</h3>
 <br>
@@ -61,6 +61,12 @@
 <b>🎥 Filtering, Searching, Ordering</b>
 <ul>
   <li>https://django-filter.readthedocs.io/en/stable/</li>
+    
+    <img width="1460" height="762" alt="usernamefilter" src="https://github.com/user-attachments/assets/b39f87c6-158d-4987-8592-62420bc58542" />
+    <img width="1450" height="910" alt="filterbynameandactive" src="https://github.com/user-attachments/assets/8dd3794b-171f-4b29-90bf-c4130bbce542" />
+    <img width="1462" height="787" alt="filterbyusername" src="https://github.com/user-attachments/assets/e5b074b6-b953-4e58-992f-e1ac57c668ad" />
+
+
   <li>https://stackoverflow.com/a/36940373/7846238</li>
 </ul>
 <br>
