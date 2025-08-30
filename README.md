@@ -26,8 +26,6 @@ Login:
 Logout:
 
 <img width="1592" height="928" alt="Screenshot from 2025-08-29 17-45-39" src="https://github.com/user-attachments/assets/c14857c0-3b94-435b-81df-d6c8611162a4" />
-<img width="1592" height="928" alt="Screenshot from 2025-08-29 17-47-53" src="https://github.com/user-attachments/assets/21ec6ef0-5072-4810-9786-42b76f7eaee6" />
-
 
 Filtering, Searching, Orderin:
 
