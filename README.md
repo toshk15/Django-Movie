@@ -2,13 +2,13 @@
 
 1.- Create virtual enviroment.
 
-2.- install requirements.txt and run the projects in your local.
+2.- Install requirements.txt and run the projects in your local.
 
-3.- Movie Folder has different branch to test the code.
+3.- Movie Folder has different branches to test the code.
 
-4.- Watch folder Final backed application.
+4.- Watch folder contain the final Backed application.
 
-5.- Testing with Postman and with API Testing
+5.- Testing with Postman and API Testing from Django Framework
 
 <b>🎥 Postman</b>
 <ul>
