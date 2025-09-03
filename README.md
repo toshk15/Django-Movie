@@ -2,15 +2,15 @@
 
 2.- Create virtual enviroment in python.
 
-2.- Install requirements.txt and run the projects in your local.
+3.- Install requirements.txt and run the projects in your local.
 
 - python manage.py runserver
 
-3.- Movie repo has different branches to test different options of the Django Restframework.
+4.- Movie repo has different branches to test different options of the Django Restframework.
 
-4.- Watch folder contain the final Backed application.
+5.- Watch folder contain the final Backed application.
 
-5.- Testing with Postman and Django Framework Admin.
+6.- Testing with Postman and Django Framework Admin.
 
 <b>🎥 Postman</b>
 <ul>
