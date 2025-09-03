@@ -1,14 +1,16 @@
-1.- Clone Repo and branches.
+1.- Clone Repo
 
-1.- Create virtual enviroment.
+2.- Create virtual enviroment in python.
 
 2.- Install requirements.txt and run the projects in your local.
 
-3.- Movie Folder has different branches to test the code.
+- python manage.py runserver
+
+3.- Movie repo has different branches to test different options of the Django Restframework.
 
 4.- Watch folder contain the final Backed application.
 
-5.- Testing with Postman and API Testing from Django Framework
+5.- Testing with Postman and Django Framework Admin.
 
 <b>🎥 Postman</b>
 <ul>
@@ -42,12 +44,12 @@ Filtering, Searching, Orderin:
 <img width="1450" height="910" alt="filterbynameandactive" src="https://github.com/user-attachments/assets/65bd208b-486e-407e-8fce-7a51a3bfd44d" />
 <img width="1460" height="762" alt="usernamefilter" src="https://github.com/user-attachments/assets/3fa392d4-eb8d-4658-967b-eb61f1176105" />
 
-Throttling 
+Throttling:
 
 <img width="1442" height="795" alt="Screenshot from 2025-08-30 11-28-30" src="https://github.com/user-attachments/assets/cd38967e-ec3e-4b85-903c-aa2a2f18ffbe" />
 <img width="1443" height="789" alt="Screenshot from 2025-08-30 11-30-06" src="https://github.com/user-attachments/assets/4dc9fcf5-6cba-4c46-bc5a-e9ecb042ef37" />
 
-Pagination
+Pagination:
 
 <img width="1437" height="1041" alt="pagination" src="https://github.com/user-attachments/assets/3cd24003-10cf-47a3-b3f6-782343a88e7a" />
 <img width="1437" height="1041" alt="pagination2" src="https://github.com/user-attachments/assets/2e47a4fe-8894-430c-9529-44641226b847" />
