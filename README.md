@@ -6,11 +6,11 @@
 
 - python manage.py runserver
 
-4.- Movie repo has different branches to test different options of the Django Restframework.
+4.- Repository has different branches to test different RestFramework options.
 
 5.- Watch folder contain the final Backed application.
 
-6.- Testing with Postman and Django Framework Admin.
+6.- Testing with Postman and Django Framework Admin http://127.0.0.1:8000/admin/
 
 <b>🎥 Postman</b>
 <ul>
